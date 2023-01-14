@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kavin2610
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python and Java Script
 - 📫 How to reach me - kavin2610@gmail.com
 
 <!---
