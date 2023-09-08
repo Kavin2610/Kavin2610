@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kavin2610
-- 👀 I’m interested in Coding
+- 👀 Python Developer
 - 📫 How to reach me - kavin2610@gmail.com
 
 <!---
