@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kavin2610
-- 👀 Python Developer
+- 👀 Python | Django Developer
 - 📫 How to reach me - kavin2610@gmail.com
 
 <!---
